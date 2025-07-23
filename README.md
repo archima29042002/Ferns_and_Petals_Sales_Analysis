@@ -3,7 +3,7 @@ Problem Statement: Ferns and Petals Sales Analysis
 FNP (Ferns and Petals) that specializes in sending gifts for
 various occasions like Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and
 Anniversaries. The dataset contains details about the products, orders, customers, and relevant
-dates. The task is to analyze this dataset to uncover key insights related to sales trends,
+dates. Our task is to analyze this dataset to uncover key insights related to sales trends,
 customer behavior, and product performance.
 Create a dashboard and answer the following key business questions to help the company
 improve its sales strategy and optimize customer satisfaction:
